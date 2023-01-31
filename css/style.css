@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica;
+    padding: 50px;
+    background-color: #DCAE96;
+  }
+h1{
+    color: #ce9275;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30pt;
+    padding: 20px;
+  }
+
+h2{
+    font-size: 20pt;
+    margin-top: 30px;
+  }
+
+p{
+    /* make your paragraphs 14pt, double-spaced and 10px of padding on the left and right */
+    font-size: 12pt;
+    line-height: 1.5
+    }
+
+ul{
+    padding: 10px;
+    text-align: center;
+}
+
+li{
+  display: inline-block;
+  margin: 5px;
+}
+
+.active{
+  color: white;
+  background: #ce9275;
+  padding: 10px;
+}
+
+p{
+    padding: 10px;
+}
+
+img{
+  width: 30%;
+  padding: 10px;
+  margin: 10px 10px 10px 15px;
+  border: dotted #ce9275 10px;
+}
+
